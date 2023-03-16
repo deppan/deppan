@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deppan</h1>
 <h3 align="center">I'm 34 years old Full-Stack developer.</h3>
 
-- 🔭 I’m currently working on BoarStar Application using Kotlin.
-- 🌱 I’m currently learning Full Stack Web development | App Development.
-- 👯 I’m looking to collaborate on React & Vue & Android Projects.
-- 💬 Ask me about anything. I will try to help you as much as I can.
-- ⚡ Fun fact: My smartness lies in my diligence.
-
 <p align="left">
   <img src="https://source.android.com/setup/images/Android_symbol_green_RGB.svg" alt="Android" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/240px-Kotlin_Icon.png" alt="Kotlin" width="40" height="40" />
