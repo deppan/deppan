@@ -3,7 +3,7 @@
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/250px-Java_Logo.svg.png" alt="Java" height="40" />
-  <img src="https://source.android.com/setup/images/Android_symbol_green_RGB.svg" alt="Android" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Android_robot.png/250px-Android_robot.png" alt="Android" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/240px-Kotlin_Icon.png" alt="Kotlin" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png" alt="React"  height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/240px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40" />
